@@ -1,7 +1,7 @@
 # 簡易確認コード送信ライブラリ
 ## License
 ### Apache License
-[https://github.com/yymo10/mail_auth/blob/3c27904a14ea03ffed13f1dbae9bc8c873bff860/LICENSE](https://github.com/yymo10/mail_auth/blob/3c27904a14ea03ffed13f1dbae9bc8c873bff860/LICENSE)
+[https://github.com/yymo10/mail_auth/blob/5763f0dcde4b54f946773b719c9ea8cf006d5293/LICENSE](https://github.com/yymo10/mail_auth/blob/5763f0dcde4b54f946773b719c9ea8cf006d5293/LICENSE)
 ## 概要
 ### メールアドレスの所有者の確認
 - メールアドレスの登録時など、登録者がメールアドレスの所有者であることを確認する為に登録するメール宛に確認コードを送信し、確認コードを入力する事で、所有者である事を認証する。
