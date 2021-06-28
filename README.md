@@ -13,7 +13,7 @@
 1. ダウンロード
     - Git
         ```bash
-        git clone https://github.com/y-ymo10/mail_auth.git
+        git clone https://github.com/yymo10/mail_auth.git
         ```
     - Zipファイルのダウンロード
     
